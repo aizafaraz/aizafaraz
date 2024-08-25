@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aizafaraz
-- 👀 I’m interested in nothing really
+- 👀 I’m interested in the internet!
 - 🌱 I’m currently learning cybersecurity stuff :P
-- 💞️ I’m looking to collaborate on nothing .. hehe 
-- 📫 How to reach me - nowhere
+- 💞️ I’m looking to collaborate on anything, really 
 
 <!---
 aizafaraz/aizafaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
